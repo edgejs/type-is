@@ -13,7 +13,7 @@
  */
 
 var typer = require('media-typer')
-var mime = require('mime-types')
+var mime = require('@edge-js/mime-types')
 
 /**
  * Module exports.
